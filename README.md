@@ -2,7 +2,8 @@
 
 Welcome to my professional cybersecurity portfolio, where I document hands on projects, technical investigations, and continuous learning in cybersecurity and information technology.
 
-My name is **Luckas Celicourt**, and I am a Police Cadet, entrepreneur, and aspiring Cybersecurity & Information Technology professional. This repository documents my hands-on cybersecurity projects, investigations, technical labs, and continuous learning journey.
+My name is **Luckas Celicourt**, and I am a Police Cadet, entrepreneur, and Cybersecurity & Information Technology professional dedicated to continuously expanding my technical knowledge through practical projects, technical investigations, and hands-on learning. This portfolio documents my cybersecurity journey, showcasing projects, laboratory exercises, and real-world technical experience as I continue building the skills needed to protect systems, solve complex problems, and contribute to the cybersecurity community.
+
 
 ## Objective
 

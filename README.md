@@ -1,90 +1,110 @@
 # Cybersecurity Portfolio
 
-Welcome to my professional cybersecurity portfolio, where I document hands on projects, technical investigations, and continuous learning in cybersecurity and information technology.
+Welcome to my Cybersecurity Portfolio, where I document hands-on projects, technical investigations, home labs, and continuous learning in cybersecurity and information technology.
 
-My name is **Luckas Celicourt**, and I am a Police Cadet, entrepreneur, and Cybersecurity & Information Technology professional dedicated to continuously expanding my technical knowledge through practical projects, technical investigations, and hands-on learning. This portfolio documents my cybersecurity journey, showcasing projects, laboratory exercises, and real-world technical experience as I continue building the skills needed to protect systems, solve complex problems, and contribute to the cybersecurity community.
-
-
-## Objective
-
-My goal is to build practical cybersecurity skills through real-world projects, hands-on labs, and technical documentation while preparing for a career in cybersecurity and information technology.
+My name is **Luckas Celicourt**, and I am a Police Cadet, entrepreneur, and aspiring Cybersecurity professional dedicated to building practical technical skills through real-world projects and continuous learning. This portfolio showcases my cybersecurity journey, highlighting hands-on labs, security investigations, technical documentation, and enterprise administration projects as I prepare for a career in Security Operations (SOC), Incident Response, and Information Technology.
 
 ---
 
-## Current Training
+# Objective
 
-- Google Cybersecurity Professional Certificate *(In Progress)*
-- TryHackMe Top 2% Ranking
-- 168+ Completed Cybersecurity Labs
-- SOC Level 1
-- Cyber Security 101
-- Pre Security
-- CompTIA Security+ *(In Progress)*
+My objective is to develop practical cybersecurity expertise by completing real-world projects, home labs, and technical investigations while building a professional portfolio that demonstrates my knowledge, problem-solving abilities, and commitment to continuous improvement.
 
 ---
 
-## Technical Skills
+# Current Training
 
-### Operating Systems
-- Windows
-- Linux
-
-### Cybersecurity
-- Security Operations Center (SOC)
-- Threat Detection
-- Incident Response
-- SIEM Fundamentals
-- Vulnerability Assessment
-- Network Security
-
-### Tools
-- Wireshark
-- Nmap
-- Burp Suite
-- Metasploit
-- Splunk
-- Microsoft Sentinel
-- Git
-- GitHub
-- VirtualBox
-
-### Programming
-- Python
-- SQL
-- Bash
+* Google Cybersecurity Professional Certificate *(Currently completing remaining coursework)*
+* TryHackMe Top 2% Ranking
+* 168+ Completed Cybersecurity Labs
+* TryHackMe SOC Level 1 *(Completed)*
+* TryHackMe Cyber Security 101 *(Completed)*
+* TryHackMe Pre Security *(Completed)*
+* TryHackMe SOC Level 2 *(In Progress)*
+* CompTIA Security+ Preparation Specialization *(Completed)*
+* Preparing for the CompTIA Security+ (SY0-701) Certification
 
 ---
 
-## Repository Roadmap
+# Technical Skills
 
-This portfolio will continue growing with projects including:
+## Operating Systems
 
-- Windows Incident Response
-- Wireshark Network Analysis
-- Active Directory Home Lab
-- Microsoft Sentinel
-- Python Security Automation
-- Linux Administration
-- SQL for Cybersecurity
-- Network Security Assessments
-- Digital Investigations
+* Windows 10
+* Windows 11
+* Linux
+
+## Cybersecurity
+
+* Security Operations Center (SOC)
+* Incident Response
+* Threat Detection
+* Windows Event Log Analysis
+* SIEM Fundamentals
+* Vulnerability Assessment
+* Network Security
+* Malware Analysis Fundamentals
+
+## Security Tools
+
+* Microsoft Sentinel
+* Splunk (Fundamentals)
+* Wireshark
+* Nmap
+* Burp Suite
+* Metasploit
+* Windows Event Viewer
+* VirtualBox
+
+## Programming & Scripting
+
+* Python
+* SQL
+* Bash
+* PowerShell
+
+## Development & Collaboration
+
+* Git
+* GitHub
 
 ---
 
-## Current Goals
+# Featured Projects
 
-- Complete the Google Cybersecurity Professional Certificate
-- Earn the CompTIA Security+ certification
-- Build 10+ professional cybersecurity projects
-- Continue expanding practical cybersecurity experience
+This portfolio continues to grow through practical cybersecurity projects, including:
+
+* Windows Incident Response Investigations
+* Active Directory Home Lab
+* Windows Server Administration
+* Microsoft Sentinel Security Monitoring
+* Wireshark Network Traffic Analysis
+* Python Security Automation
+* Linux Administration
+* SQL for Cybersecurity
+* Network Security Assessments
+* Digital Investigations
+* Technical Documentation
 
 ---
 
-## Connect With Me
+# Current Goals
 
-- LinkedIn: *(Coming Soon)*
-- GitHub: https://github.com/LuckasCelicourt
+* Earn the CompTIA Security+ certification
+* Complete TryHackMe SOC Level 2
+* Finish the Google Cybersecurity Professional Certificate
+* Build 10+ professional cybersecurity projects
+* Expand my GitHub portfolio with enterprise-focused security labs
+* Continue developing hands-on experience in Windows administration, Active Directory, incident response, and security operations
 
 ---
 
-*"Continuous learning, discipline, and practical experience are the foundation of cybersecurity excellence."*
+# Connect With Me
+
+* **LinkedIn:** https://www.linkedin.com/in/luckascelicourt/
+* **GitHub:** https://github.com/LuckasCelicourt
+* **Email:** [celicourtluckas1@gmail.com](mailto:celicourtluckas1@gmail.com)
+
+---
+
+> **"Continuous learning, discipline, and hands-on experience are the foundation of cybersecurity excellence."**
